@@ -1,4 +1,4 @@
-# Chess-Game-Engine
+# Chess_Game_Engine
 
 This is a Chess Game Engine based on mini-max algorithm.
 
